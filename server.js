@@ -3,7 +3,7 @@ const bodyParser = require('body-parser');
 const app = express()
 
 let request = require('request');
-let apiKey = '69318af2c3b2437d082897c840e5986a';
+let apiKey = '**'; //removed api key
 let city = 'Nagpur';
 
 
